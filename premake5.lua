@@ -16,7 +16,8 @@ project "EnTT"
 
 	includedirs
 	{
-		"single_include"
+		"src",
+		"single_include",
 	}
 
 	filter "system:windows"
